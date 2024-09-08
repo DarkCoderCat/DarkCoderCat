@@ -3,7 +3,7 @@
 - 🐈‍⬛ I'm just some cat here to learn Python and keep follow of all of the open source apps that he has installed.
 
 My Picture 👇👇👇👇 (Special thanks to Breaker O'Day for making me the pic)
-(images/DarkCoderCatWM.png)
+![./images/DarkCoderCatWM](./images/DarkCoderCatWM.png)
 
 <!---
 DarkCoderCat/DarkCoderCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
