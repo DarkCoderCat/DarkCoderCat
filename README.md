@@ -9,7 +9,7 @@
 <p align="center">- "Huh?" Is not an answer. "What?" Isn't an answer either. "Just because" IS an answer.</p><br>
 <hr>
 
-My Picture 👇👇👇👇 (Special thanks to Breaker O'Day for making me the pic)
+My Picture 👇👇👇👇
 ![./images/DarkCoderCatWM](./images/DarkCoderCatWM.png)
 
 <!---
