@@ -12,7 +12,6 @@
 My Picture 👇👇👇👇 (Special thanks to Breaker O'Day for making me the pic)
 ![./images/DarkCoderCatWM](./images/DarkCoderCatWM.png)
 
-<a rel="me" href="https://liberdon.com/@breaker">Mastodon</a>
 <!---
 DarkCoderCat/DarkCoderCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
