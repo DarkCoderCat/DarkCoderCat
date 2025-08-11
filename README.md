@@ -8,10 +8,6 @@
 <p align="center">- "Just because you can doesn't mean you should" ~Unknown</p><br>
 <p align="center">- "Huh?" Is not an answer. "What?" Isn't an answer either. "Just because" IS an answer.</p><br>
 <hr>
-
-My Picture 👇👇👇👇
-![./images/DarkCoderCatWM](./images/DarkCoderCatWM.jpg)
-
 <!---
 DarkCoderCat/DarkCoderCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
