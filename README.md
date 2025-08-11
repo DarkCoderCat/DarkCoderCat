@@ -10,7 +10,7 @@
 <hr>
 
 My Picture 👇👇👇👇
-![./images/DarkCoderCatWM](./images/DarkCoderCatWM.png)
+![./images/DarkCoderCatWM](./images/DarkCoderCatWM.jpg)
 
 <!---
 DarkCoderCat/DarkCoderCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
