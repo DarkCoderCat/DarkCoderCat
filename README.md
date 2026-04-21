@@ -6,7 +6,8 @@
 <p align="center">- "Anyone who codes and wants to be paid for it, is a fascist" ~Unknown</p><br>
 <p align="center">- "Just because you can doesn't mean you should" ~Unknown</p><br>
 <p align="center">- "Huh?" Is not an answer. "What?" Isn't an answer either. "Just because" IS an answer.</p><br>
-<p align="center">- "Microsuck __DOES__ indeed __suck__.</p><br>
+<p align="center">- "Malo periculosam, libertatem quam quietam servitutem." ~ Thomas Jefferson to James Madison in a Letter, Jan. 30. 1787</p><br>
+<p align="center">- "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety." ~ Benjamin Franklin, 11-Nov-1755
 <hr>
 <!---
 DarkCoderCat/DarkCoderCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
