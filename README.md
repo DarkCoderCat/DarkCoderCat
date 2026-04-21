@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarkCoderCat
 - 🏡 I lurk in the deepest parts of the Python IDE, learning Python one purr at a time. 🐈‍⬛🐾
-- 💻 Currently building my own Python launcher to run all my scripts and programs.
-- 💻 My favorite distribution of Linux is Debian.
+- 💻 Working on a personal Python launcher tailored to my chaotic workflow. 😱
+- 💻 My favorite distribution of Linux is [Debian](https://www.debian.org). 😈
 <hr>
 <p align="center">- "Anyone who codes and wants to be paid for it, is a fascist" ~Unknown</p><br>
 <p align="center">- "Just because you can doesn't mean you should" ~Unknown</p><br>
