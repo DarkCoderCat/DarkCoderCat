@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DarkCoderCat
-- 🌱 I’m currently learning Python
-- 💻 My favorite distrobution of Linux is Debian
-- 🖥️ My favorite games are the Resident Evil Franchise, the Final Fantasy Franchise (up until VIII), The Doom Franchise, Duke Nukem 3D, Mass Effect Franchise (Except Andromeda. This game IS NOT Canon)
-- 🐈‍⬛ I'm just some cat here to learn Python and keep follow of all of the open source apps that he has installed.
+- 🏡 I lurk in the deepest parts of the Python IDE. 🐈‍⬛🐾
+- 💻 The favorite project that is an ongoing project of mine is my Python launcher I use it to launch other scripts and programs on my computer.
+- 💻 My favorite distrobution of Linux is Debian.
 <hr>
 <p align="center">- "Anyone who codes and wants to be paid for it, is a fascist" ~Unknown</p><br>
 <p align="center">- "Just because you can doesn't mean you should" ~Unknown</p><br>
